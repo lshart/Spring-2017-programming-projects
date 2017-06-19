@@ -1,0 +1,11 @@
+clingo version 5.1.0
+Reading from puzzle2.asp
+Solving...
+Answer: 1
+nameSuperYear(gabe,hex,2009) nameSuperYear(ivor,shadow,2010) nameSuperYear(matt,wonder,2008) nameSuperYear(peter,bane,2007)
+SATISFIABLE
+
+Models       : 1
+Calls        : 1
+Time         : 0.003s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s

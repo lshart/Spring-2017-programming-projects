@@ -1,0 +1,13 @@
+clingo version 5.1.0
+Reading from project6.asp
+Solving...
+Answer: 1
+o(move_sailor(near),2) o(move_sailor(near),6) o(move_something(goat,near),4) o(move_something(goat,far),1) o(move_something(wolf,far),3) o(move_something(cabbage,far),5) o(move_something(goat,far),7)
+Answer: 2
+o(move_sailor(near),2) o(move_sailor(near),6) o(move_something(goat,near),4) o(move_something(goat,far),1) o(move_something(cabbage,far),3) o(move_something(wolf,far),5) o(move_something(goat,far),7)
+SATISFIABLE
+
+Models       : 2
+Calls        : 1
+Time         : 0.007s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s
